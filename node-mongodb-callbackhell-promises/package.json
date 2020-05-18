@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-callbackhell-promises",
+  "version": "1.0.0",
+  "description": "callbak hell and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Shivansh Arjit Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.5.7"
+  }
+}
